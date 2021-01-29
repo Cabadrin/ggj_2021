@@ -9,6 +9,7 @@
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},"order":0,},
     {"id":{"name":"scr_p_jump","path":"scripts/scr_p_jump/scr_p_jump.yy",},"order":4,},
     {"id":{"name":"scr_p_anim","path":"scripts/scr_p_anim/scr_p_anim.yy",},"order":1,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":1,},
     {"id":{"name":"spr_col","path":"sprites/spr_col/spr_col.yy",},"order":0,},
     {"id":{"name":"spr_player4_idle_anim","path":"sprites/spr_player4_idle_anim/spr_player4_idle_anim.yy",},"order":3,},
     {"id":{"name":"scr_p_state_free","path":"scripts/scr_p_state_free/scr_p_state_free.yy",},"order":2,},
